@@ -37,18 +37,15 @@ python [taobaoCrawler.py](http://taobaocrawler.py/)
 
 传入格式为如下图所示：
 
-![Untitled](taobao%E6%8E%A7%E4%BB%B7%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%20754f1dddcf4c4a5b9989c22a980b473c/Untitled.png)
+![Untitled](doc/img.png)
 
 其中：
 
 - 版本号对应
-
-    ![Untitled](taobao%E6%8E%A7%E4%BB%B7%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%20754f1dddcf4c4a5b9989c22a980b473c/Untitled%201.png)
-
 - 适用地区对应
     - 高一、高二、等等
 
-    ![Untitled](taobao%E6%8E%A7%E4%BB%B7%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%20754f1dddcf4c4a5b9989c22a980b473c/Untitled%202.png)
+  ![Untitled](doc/img_1.png)
 
 - 科目包括
 
@@ -81,6 +78,5 @@ python [taobaoCrawler.py](http://taobaocrawler.py/)
 
 [淘宝爬取商品结果2023-12-05_15-27-12.xlsx](taobao%E6%8E%A7%E4%BB%B7%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%20754f1dddcf4c4a5b9989c22a980b473c/%25E6%25B7%2598%25E5%25AE%259D%25E7%2588%25AC%25E5%258F%2596%25E5%2595%2586%25E5%2593%2581%25E7%25BB%2593%25E6%259E%259C2023-12-05_15-27-12.xlsx)
 
-![Untitled](taobao%E6%8E%A7%E4%BB%B7%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%20754f1dddcf4c4a5b9989c22a980b473c/Untitled%204.png)
 
 分为以下几列，商品名称、sku学科、价格、销量、商品店铺名称、归属地、商品链接、设定的最低价、差价（指与设定的价格的差距）
