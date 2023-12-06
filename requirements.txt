@@ -1,0 +1,6 @@
+pandas~=2.0.2
+requests~=2.31.0
+cssselect~=1.2.0
+selenium~=4.15.2
+colorlog~=6.8.0
+pytesseract~=0.3.10
